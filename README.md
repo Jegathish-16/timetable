@@ -22,8 +22,8 @@ Execute the program
    </head>
 	
    <body>
-      <img src="logo.png" />
       <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="yellow">
+      <img src="logo.png">
           <tr>
             <th colspan="2"> NAME: JEGATHISH S
             <th colspan="2"> REF NO: 21005410
@@ -100,6 +100,16 @@ Execute the program
   
          
       </table>
+      <br>1. 19EY701-Soft skill-                                    Sneha priya P</br>
+      <br>2. 19MC802-Environmental science-                         kalaivani A</br>
+      <br>3. 19MA221-Linear Algebra Laboratory-                     Archana S H</br>
+      <br>4. 19AI301-Python Programming-                            Archana S H</br>
+      <br>5. 19MA220-Mathematics for Artificial Intelligence-       Archana S H</br>
+      <br>6. 19AI402-Web Technology Laboratory-                     Karthi Govindharaju</br>
+      <br>7. 19AI401-Fundamentals of Web Technology-                Karthi Govindharaju</br>
+      <br>8. 19AI302-Engineering Design and Modeling-               Sridhar S</br>
+      <br>9. 19AI303-Engineering Mechanics and Product Development- Sridhar S</br>
+      <br>10.ECA051-AD-Mentoring - AD1-                             Archana S H</br>
       
    </body>
 </html>
@@ -115,5 +125,6 @@ Execute the program
 
 ~~~
 # OUTPUT
-![timetable](https://user-images.githubusercontent.com/93696046/143609776-aaa7070d-08da-4df2-ba1d-2063008ff06d.png)
+![web tech](https://user-images.githubusercontent.com/93696046/143669562-8af2ed78-594a-4c7d-b1be-24ff89d6d279.jpg)
+
 
